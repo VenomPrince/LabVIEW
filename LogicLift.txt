@@ -1,0 +1,16 @@
+click 1 
+case 1 if elevator is 0 then do nothing
+case 2 if elevator(-156, -312, -468) it will come down to 0
+
+click 2 
+case 1 if the elevator is greater(0) than -156 then it goes up 
+case 2 if the elevator is smaller(-312, -468) than -156 it goes down 
+
+click 3
+case 1 if the elevator is greater(0, -152) than -312 it goes up
+case 2 if the elevator is smaller(-468) than -312 then it goes down
+
+click 4
+case 1 if the elevator is -468 it does nothing
+case 2 if the elevator is less than -468 (-156, -312, 0) it goes up
+
